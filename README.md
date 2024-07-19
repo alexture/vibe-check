@@ -1,7 +1,9 @@
 # VibeCheck
 The general idea of the Vibe Check app is to give people a SmileToken to reward them for smiling. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EQ7hBTmeJLs?si=1W5OSnNcJ3pi8aZ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Watch it in action](https://www.youtube.com/watch?v=EQ7hBTmeJLs)
+![Check your vibe](https://vibe.hyle.eu) (desktop only)
+
 
 
 ## Context
